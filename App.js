@@ -1,5 +1,5 @@
 import { NavigationContainer } from '@react-navigation/native';
-import TabNavigator from './src/navigation/TabNavigator';
+import Navogation from './src/navigation/Navigation.js';
 import { ReportsProvider } from './src/context/ReportsContext';
 
 export default function App() {
